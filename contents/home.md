@@ -1,11 +1,11 @@
 
 
-[![University Portfolio]](https://www.york.ac.uk/economics/people/postgraduate-researchers/xueting-yang/)
+[[University Portfolio]](https://www.york.ac.uk/economics/people/postgraduate-researchers/xueting-yang/)
 
 I am a PhD student in the Department of Economics and Related Studies, University of York. My main research interest is experimental economics, specifically decision making under ambiguity. I am supervised by Prof. John Hey and Prof. Yuan Ju.
 
 #### Email
-xueting.yang[at]york.ac.uk
+xueting.yang@york.ac.uk
 
 #### Education
 PhD, Economics, Depatment of Economics and Related studies, University of York, 2023—2027 (expected).\
