@@ -1,0 +1,3 @@
+- <strong>Yang, X.</strong> (2025). Why Are Blind Boxes So Popular? An Experimental Ivestigation Into Apparently Ambiguity (or Risk)-Seeking Behavior. <strong>In Revision</strong>. [[Abstract and Data]](https://www.york.ac.uk/economics/exec/research/)
+
+- <strong>Yang, X.</strong> and Hey, J. (2024). Do Workers Ignore Ambiguity? <strong>In Revision.</strong> [[Abstract and Data]](https://www.york.ac.uk/economics/exec/research/yanghey/)

@@ -1,16 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![University Portfolio]](https://www.york.ac.uk/economics/people/postgraduate-researchers/xueting-yang/)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am a PhD student in the Department of Economics and Related Studies, University of York. My main research interest is experimental economics, specifically decision making under ambiguity. I am supervised by Prof. John Hey and Prof. Yuan Ju.
 
 #### Email
-sli[at]cumt.edu.cn
+xueting.yang[at]york.ac.uk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+PhD, Economics, Depatment of Economics and Related studies, University of York, 2023—2027 (expected).\
+MSc, Economics and Finance, International Business School Suzhou, Xi'an Jiaotong-Liverpool University, 2020—2022.\
+BSc, Economics and Finance, International Business School Suzhou, Xi'an Jiaotong-Liverpool University, 2015—2019.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### Projects for PhD study stage
+Why Are Blind Boxes So Popular? An Experimental Ivestigation Into Apparently Ambiguity (or Risk)-Seeking Behavior (11/2024—04/2025)\
+Do Workers ignore ambiguity? (Co-worker: Prof. John Hey) (03/2024—11/2024)
 

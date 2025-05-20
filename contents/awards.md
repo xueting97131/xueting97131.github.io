@@ -1,13 +1,10 @@
-- National Scholarship of Graduate Student, 2024.
+## Awards
+- Departmental studentship funding, 2023-2026.
 
-- First-prize Scholarship of CUMT, 2024.
-
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+## Conference
+Oral Presentation:
+- ESA World Meeting, Beijing, China, 6-9 June, 2025, (Project: Do Workers Ignore Ambiguity?).
+- 15th Conference of the French Experimental Economics Association, Nancy, France, 17-18 June, 2025, (Project: Do Workers Ignore Ambiguity?).
+Poster session:
+- 15th Conference of the French Experimental Economics Association, Nancy, France, 17-18 June, 2025, (Project: Why Are Blind Boxes So Popular? An Experimental Ivestigation Into Apparently Ambiguity (or Risk)-Seeking Behavior).
+- IAREP/SABE Joint Meeting, Dundee, United Kindom, 19-22 August, 2024, (Project: Do Workers Ignore Ambiguity?).
