@@ -1,4 +1,4 @@
-[[University Portfolio]](https://www.york.ac.uk/economics/people/postgraduate-researchers/xueting-yang/)
+<a href="/pdfs/CV.pdf" target="_blank">[CV]</a>
 <p>Xueting Yang is a third-year PhD student at the Department of Economics and Related Studies, University of York, supervised by Prof. John Hey and Prof. Yuan Ju. Xueting's main research interest is experimental economics, specifically decision making under risk and ambiguity. Xueting holds both a Bachelor degree with honors and a Master degree with distinction in Economics and finance from Xi'an Jiaotong-Liverpool University. She is the first author of a paper published in the Journal of Risk and Uncertainty.</p>
 
 <hr>
