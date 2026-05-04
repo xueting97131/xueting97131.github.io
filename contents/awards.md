@@ -5,7 +5,10 @@
 </ul>
 
 <h3>Conferences</h3>
-
+<h4>Member of Local Organization Committee</h4>
+<ul style="font-size: 0.9em; line-height: 1.6; margin-top: 5px;">
+<li style="margin-bottom: 8px;"><strong>2026 CMID: Conference on Mechanism and Institution Design</strong>, York, UK, 06/2026</li>
+</ul>
 <h4>Oral Presentation</h4>
 <ul style="font-size: 0.9em; line-height: 1.6; margin-top: 5px;">
 <li style="margin-bottom: 8px;"><strong>ASFEE 2026: Annual Conference of the French Association of Experimental Economics</strong>, Lille, France, 06/2026</li>
