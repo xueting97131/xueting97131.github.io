@@ -1,5 +1,5 @@
 <a href="/pdfs/CV.pdf" target="_blank">[CV]</a>
-<p>Xueting Yang is a third-year PhD student at the Department of Economics and Related Studies, University of York, supervised by Prof. John Hey and Prof. Yuan Ju. Xueting's main research interest is experimental economics, specifically decision making under risk and ambiguity. Xueting holds both a Bachelor degree with honors and a Master degree with distinction in Economics and finance from Xi'an Jiaotong-Liverpool University. She is the first author of a paper published in the Journal of Risk and Uncertainty.</p>
+<p>Xueting Yang is a fourth-year PhD student at the Department of Economics and Related Studies, University of York, supervised by Prof. John Hey and Prof. Yuan Ju. Xueting's main research interest is experimental economics, specifically decision making under risk and ambiguity. Xueting holds both a Bachelor degree with honors and a Master degree with distinction in Economics and finance from Xi'an Jiaotong-Liverpool University. She is the first author of a paper published in the Journal of Risk and Uncertainty.</p>
 
 <hr>
 
@@ -18,7 +18,7 @@ BSc, Economics and Finance, International Business School Suzhou, Xi'an Jiaotong
 <h4>Projects for PhD study stage</h4>
 <ul style="font-size: 0.9em; line-height: 1.6; margin-top: 5px;">
 <li style="margin-bottom: 8px;">Do workers maximize expected utility when choosing labour contracts under ambiguity? (Co-author: Prof. John Hey) (03/2024—11/2024) Published in <strong>Journal of Risk and Uncertainty</strong></li>
-<li style="margin-bottom: 8px;">Probability Misperception in Blind Box Consumption: An Experimental Investigation of Risk and Ambiguity Preferences (11/2024—04/2025)</li>
-<li style="margin-bottom: 8px;">Does increasing complexity change behaviour under ambiguity? "Less is More" <em>Job Market Paper</em> (9/2025—1/2026)</li>
+<li style="margin-bottom: 8px;">Probability Misperception in Blind Box Consumption: An Experimental Investigation of Risk and Ambiguity Preferences (11/2024—04/2025) (submitted)</li>
+<li style="margin-bottom: 8px;">Does increasing complexity change behaviour under ambiguity? "Less is More" <em>Job Market Paper</em> (9/2025—1/2026) (Revision from Journal of Risk and Uncertainty)</li>
 </ul>
 
