@@ -4,7 +4,7 @@
 <hr>
 
 <h4>Email</h4>
-<p>xueting.yang@york.ac.uk</p>
+<p>xueting97131@163.com</p>
 
 <hr>
 
