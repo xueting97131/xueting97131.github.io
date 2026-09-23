@@ -1,11 +1,3 @@
-@import "./styles.css";
-
-
-:root {
-    --h-title-color: #3948d2;
-}
-
-
 /* =========================================================
    Navigation
    ========================================================= */
@@ -13,25 +5,79 @@
 .header {
     border-bottom: solid 2px var(--bs-blue);
     z-index: 10000;
+    background-color: #ffffff;
 }
 
+/* Use the available width of the screen */
+#mainNav .container-fluid {
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+/* Name on the left */
 #mainNav .navbar-brand {
     white-space: nowrap;
+    flex-shrink: 0;
+    margin-right: 2rem;
 }
 
-#mainNav .nav-link {
+/* Navigation area */
+#mainNav .navbar-collapse {
+    flex-grow: 1;
+}
+
+/* Push navigation links to the right */
+#mainNav .navbar-nav {
+    margin-left: auto;
+    align-items: center;
+}
+
+/* Prevent menu items from wrapping */
+#mainNav .nav-item {
     white-space: nowrap;
 }
 
-/* Keep desktop navigation compact */
-@media (min-width: 992px) {
-    #mainNav .navbar-nav {
-        gap: 0.25rem;
+/* Navigation links */
+#mainNav .nav-link {
+    white-space: nowrap;
+    font-size: 1rem;
+    padding-left: 0.65rem;
+    padding-right: 0.65rem;
+}
+
+
+/* Medium-sized desktop/laptop screens */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    #mainNav .container-fluid {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    #mainNav .navbar-brand {
+        margin-right: 1rem;
     }
 
     #mainNav .nav-link {
-        padding-left: 0.5rem;
-        padding-right: 0.5rem;
+        font-size: 0.95rem;
+        padding-left: 0.4rem;
+        padding-right: 0.4rem;
+    }
+}
+
+
+/* Mobile navigation */
+@media (max-width: 991px) {
+
+    #mainNav .navbar-nav {
+        align-items: flex-start;
+        padding-top: 0.5rem;
+    }
+
+    #mainNav .nav-link {
+        padding: 0.5rem 0;
+        font-size: 1rem;
     }
 }
 
