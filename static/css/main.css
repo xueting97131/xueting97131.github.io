@@ -1,3 +1,6 @@
+:root {
+    --h-title-color: #3948d2;
+}
 /* =========================================================
    Navigation
    ========================================================= */
@@ -8,76 +11,61 @@
     background-color: #ffffff;
 }
 
-/* Use the available width of the screen */
-#mainNav .container-fluid {
-    width: 100%;
-    padding-left: 5%;
-    padding-right: 5%;
+#mainNav {
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
 }
 
-/* Name on the left */
+/* Name */
 #mainNav .navbar-brand {
     white-space: nowrap;
     flex-shrink: 0;
     margin-right: 2rem;
 }
 
-/* Navigation area */
-#mainNav .navbar-collapse {
-    flex-grow: 1;
-}
-
-/* Push navigation links to the right */
+/* Navigation */
 #mainNav .navbar-nav {
     margin-left: auto;
-    align-items: center;
 }
 
-/* Prevent menu items from wrapping */
 #mainNav .nav-item {
     white-space: nowrap;
 }
 
-/* Navigation links */
 #mainNav .nav-link {
     white-space: nowrap;
     font-size: 1rem;
-    padding-left: 0.65rem;
-    padding-right: 0.65rem;
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
 }
 
 
-/* Medium-sized desktop/laptop screens */
-@media (min-width: 992px) and (max-width: 1199px) {
+/* =========================================================
+   Expanded desktop navigation
+   ========================================================= */
 
-    #mainNav .container-fluid {
-        padding-left: 2rem;
-        padding-right: 2rem;
+@media (min-width: 1200px) {
+
+    #mainNav .navbar-nav {
+        align-items: center;
     }
 
-    #mainNav .navbar-brand {
-        margin-right: 1rem;
-    }
-
-    #mainNav .nav-link {
-        font-size: 0.95rem;
-        padding-left: 0.4rem;
-        padding-right: 0.4rem;
-    }
 }
 
 
-/* Mobile navigation */
-@media (max-width: 991px) {
+/* =========================================================
+   Collapsed navigation
+   ========================================================= */
+
+@media (max-width: 1199.98px) {
 
     #mainNav .navbar-nav {
         align-items: flex-start;
-        padding-top: 0.5rem;
+        padding-top: 0.75rem;
     }
 
     #mainNav .nav-link {
         padding: 0.5rem 0;
-        font-size: 1rem;
     }
 }
 
