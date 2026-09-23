@@ -19,7 +19,7 @@
         <a href="https://www.york.ac.uk/economics/exec/research/yang/" target="_blank">[Abstract and Data]</a>
     </li>
 
-```
+
 <li style="margin-bottom: 15px;">
     <strong>"Less is More": Decision-Making under Increasingly Complex Ambiguity</strong>. 
     <em>Journal of Risk and Uncertainty</em> (Revise and Resubmit). 
@@ -27,6 +27,6 @@
     <a href="/pdfs/JMP-XuetingYang.pdf" target="_blank">[PDF]</a>
     <a href="/researchdata/CH3allresults.xls" target="_blank">[Data]</a>
 </li>
-```
+
 
 </ul>
