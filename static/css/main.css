@@ -1,6 +1,8 @@
 :root {
     --h-title-color: #3948d2;
 }
+
+
 /* =========================================================
    Navigation
    ========================================================= */
@@ -8,65 +10,6 @@
 .header {
     border-bottom: solid 2px var(--bs-blue);
     z-index: 10000;
-    background-color: #ffffff;
-}
-
-#mainNav {
-    padding-top: 0.8rem;
-    padding-bottom: 0.8rem;
-}
-
-/* Name */
-#mainNav .navbar-brand {
-    white-space: nowrap;
-    flex-shrink: 0;
-    margin-right: 2rem;
-}
-
-/* Navigation */
-#mainNav .navbar-nav {
-    margin-left: auto;
-}
-
-#mainNav .nav-item {
-    white-space: nowrap;
-}
-
-#mainNav .nav-link {
-    white-space: nowrap;
-    font-size: 1rem;
-    padding-left: 0.7rem;
-    padding-right: 0.7rem;
-}
-
-
-/* =========================================================
-   Expanded desktop navigation
-   ========================================================= */
-
-@media (min-width: 1200px) {
-
-    #mainNav .navbar-nav {
-        align-items: center;
-    }
-
-}
-
-
-/* =========================================================
-   Collapsed navigation
-   ========================================================= */
-
-@media (max-width: 1199.98px) {
-
-    #mainNav .navbar-nav {
-        align-items: flex-start;
-        padding-top: 0.75rem;
-    }
-
-    #mainNav .nav-link {
-        padding: 0.5rem 0;
-    }
 }
 
 
