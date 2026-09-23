@@ -10,7 +10,7 @@
 <hr>
 
 <h4>Education</h4>
-<p style="font-size: 0.9em;">
+<p>
 PhD, Economics, Department of Economics and Related Studies, University of York, 2023–2027 (expected).<br>
 MSc, Economics and Finance, International Business School Suzhou, Xi'an Jiaotong-Liverpool University, 2020–2022.<br>
 BSc, Economics and Finance, International Business School Suzhou, Xi'an Jiaotong-Liverpool University, 2015–2019.
@@ -20,19 +20,19 @@ BSc, Economics and Finance, International Business School Suzhou, Xi'an Jiaotong
 
 <h4>Referees</h4>
 
-<p style="font-size: 0.9em;">
+<p>
 <strong>Prof. John Hey</strong><br>
 Department of Economics and Related Studies, University of York<br>
 Email: <a href="mailto:John.Hey@york.ac.uk">John.Hey@york.ac.uk</a>
 </p>
 
-<p style="font-size: 0.9em;">
+<p>
 <strong>Prof. Yuan Ju</strong><br>
 Department of Economics and Related Studies, University of York<br>
 Email: <a href="mailto:Yuan.Ju@york.ac.uk">Yuan.Ju@york.ac.uk</a>
 </p>
 
-<p style="font-size: 0.9em;">
+<p>
 <strong>Dr Khushboo Surana</strong><br>
 Department of Economics and Related Studies, University of York<br>
 Email: <a href="mailto:khushboo.surana@york.ac.uk">khushboo.surana@york.ac.uk</a>

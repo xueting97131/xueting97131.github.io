@@ -1,6 +1,6 @@
 <h3>Publication</h3>
-<ul style="margin-top: 10px; line-height: 1.8;">
-    <li style="margin-bottom: 15px;">
+<ul>
+    <li>
         <strong>Yang, X.</strong> and Hey, J. (2025). 
         Do Workers Maximize Expected Utility When Choosing Labour Contracts Under Ambiguity? 
         <strong><em>Journal of Risk and Uncertainty, 71</em>(3), 273–292.</strong>
@@ -11,8 +11,8 @@
 </ul>
 
 <h3>Job Market Paper</h3>
-<ul style="margin-top: 10px; line-height: 1.8;">
-    <li style="margin-bottom: 15px;">
+<ul>
+    <li>
         "Less is More": Decision-Making under Increasingly Complex Ambiguity. 
         <strong><em>Journal of Risk and Uncertainty</em> (Revise and Resubmit).</strong>
         <a href="/pdfs/JMP-XuetingYang.pdf" target="_blank">[PDF]</a>
@@ -21,8 +21,8 @@
 </ul>
 
 <h3>Papers Under Review</h3>
-<ul style="margin-top: 10px; line-height: 1.8;">
-    <li style="margin-bottom: 15px;">
+<ul>
+    <li>
         Probability Misperception in Blind Box Consumption: An Experimental Investigation of Risk and Ambiguity Preferences. 
         <strong><em>Theory and Decision</em> (Major Revision).</strong>
         <a href="/pdfs/Blind Box -XuetingYang.pdf" target="_blank">[PDF]</a>
