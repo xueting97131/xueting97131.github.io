@@ -8,39 +8,69 @@
    ========================================================= */
 
 .header {
-    border-bottom: solid 2px var(--bs-blue);
+    border-bottom: 2px solid var(--bs-blue);
     z-index: 10000;
 }
 
-/* Give the brand and links their natural widths */
+/* Navbar container */
+#mainNav .container {
+    display: flex;
+    align-items: center;
+}
+
+/* Name */
 #mainNav .navbar-brand {
-    flex-shrink: 0;
+    flex: 0 0 auto;
     white-space: nowrap;
 }
 
+/* Right-hand navigation */
 #mainNav .navbar-collapse {
-    min-width: 0;
+    flex-grow: 1;
 }
 
+/* Critical fix */
 #mainNav .navbar-nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: auto;
     margin-left: auto;
 }
 
-#mainNav .nav-link {
+/* Critical fix: each item must retain its content width */
+#mainNav .navbar-nav .nav-item {
+    display: block;
+    flex: 0 0 auto;
+    width: auto;
+}
+
+/* Critical fix: each link must retain its content width */
+#mainNav .navbar-nav .nav-link {
+    display: block;
+    width: auto;
+    min-width: max-content;
     white-space: nowrap;
+    padding: 0.5rem 0.75rem;
 }
 
 
-/* Desktop */
-@media (min-width: 992px) {
+/* Mobile */
+@media (max-width: 991.98px) {
 
     #mainNav .navbar-nav {
-        gap: 0.5rem;
+        flex-direction: column;
+        width: 100%;
+        margin-left: 0;
     }
 
-    #mainNav .nav-link {
-        padding-left: 0.5rem;
-        padding-right: 0.5rem;
+    #mainNav .navbar-nav .nav-item {
+        width: 100%;
+    }
+
+    #mainNav .navbar-nav .nav-link {
+        width: 100%;
+        padding: 0.5rem 0;
     }
 }
 
