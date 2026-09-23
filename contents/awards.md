@@ -1,28 +1,32 @@
 <h3>Awards</h3>
 <ul style="font-size: 0.9em; line-height: 1.6; margin-top: 5px;">
-<li style="margin-bottom: 8px;"><strong>Departmental studentship funding</strong>, 2023–2027</li>
-<li style="margin-bottom: 8px;"><strong> 2025-2026 Award for Outstanding Overseas Study Elite</strong>, 2026</li>
-<li style="margin-bottom: 8px;"><strong>Teaching Excellence Award</strong>, 2025</li>
+    <li style="margin-bottom: 8px;">Departmental Studentship Funding, <strong>2023–2027</strong></li>
+    <li style="margin-bottom: 8px;">2025–2026 Award for Outstanding Overseas Study Elite, <strong>2026</strong></li>
+    <li style="margin-bottom: 8px;">Teaching Excellence Award, <strong>2025</strong></li>
 </ul>
 
 <h3>Conferences</h3>
-<h4>Member of Local Organization Committee</h4>
+
+<h4>Organization</h4>
 <ul style="font-size: 0.9em; line-height: 1.6; margin-top: 5px;">
-<li style="margin-bottom: 8px;"><strong>2026 CMID: Conference on Mechanism and Institution Design</strong>, York, UK, 06/2026</li>
-</ul>
-<h4>Oral Presentation</h4>
-<ul style="font-size: 0.9em; line-height: 1.6; margin-top: 5px;">
-<li style="margin-bottom: 8px;"><strong>ASFEE 2026: Annual Conference of the French Association of Experimental Economics</strong>, Lille, France, 06/2026</li>
-<li style="margin-bottom: 8px;"><strong>FUR (Foundations of Utility and Risk) Conference 2026</strong>, Alicante, Spain, 06/2026</li>
-<li style="margin-bottom: 8px;"><strong>2026 Durham-Edinburgh-York Workshop</strong>, Durham, UK, 05/2026</li>
-<li style="margin-bottom: 8px;"><strong>ECO Department Brownbag Seminar</strong>, Xi'an Jiaotong-Liverpool University, Suzhou, China, 03/2026</li>
-<li style="margin-bottom: 8px;"><strong>Departmental Thursday Workshop</strong>, University of York, York, UK, 10/2025</li>
-<li style="margin-bottom: 8px;"><strong>ASFEE 2025: 15th Conference of the French Experimental Economics Association</strong>, Nancy, France, 06/2025</li>
-<li style="margin-bottom: 8px;"><strong>ESA 2025 World Meeting</strong>, Beijing, China, 06/2025</li>
+    <li style="margin-bottom: 8px;">
+        Local Organizing Committee, 2026 Conference on Mechanism and Institution Design (CMID), York, UK, <strong>2026</strong>
+    </li>
 </ul>
 
-<h4>Poster Session</h4>
+<h4>Conference Presentations</h4>
 <ul style="font-size: 0.9em; line-height: 1.6; margin-top: 5px;">
-<li style="margin-bottom: 8px;"><strong>ASFEE 2025: 15th Conference of the French Experimental Economics Association</strong>, Nancy, France, 06/2025</li>
-<li style="margin-bottom: 8px;"><strong>IAREP/SABE Joint Meeting</strong>, Dundee, United Kingdom, 08/2024</li>
+    <li style="margin-bottom: 8px;">Annual Conference of the French Association of Experimental Economics (ASFEE), Lille, France, <strong>2026</strong></li>
+    <li style="margin-bottom: 8px;">Foundations of Utility and Risk (FUR) Conference, Alicante, Spain, <strong>2026</strong></li>
+    <li style="margin-bottom: 8px;">Durham–Edinburgh–York Workshop, Durham, UK, <strong>2026</strong></li>
+    <li style="margin-bottom: 8px;">Economics Department Brownbag Seminar, Xi'an Jiaotong-Liverpool University, Suzhou, China, <strong>2026</strong></li>
+    <li style="margin-bottom: 8px;">Departmental Thursday Workshop, University of York, York, UK, <strong>2025</strong></li>
+    <li style="margin-bottom: 8px;">15th Conference of the French Experimental Economics Association (ASFEE), Nancy, France, <strong>2025</strong></li>
+    <li style="margin-bottom: 8px;">ESA World Meeting, Beijing, China, <strong>2025</strong></li>
+</ul>
+
+<h4>Poster Presentations</h4>
+<ul style="font-size: 0.9em; line-height: 1.6; margin-top: 5px;">
+    <li style="margin-bottom: 8px;">15th Conference of the French Experimental Economics Association (ASFEE), Nancy, France, <strong>2025</strong></li>
+    <li style="margin-bottom: 8px;">IAREP/SABE Joint Meeting, Dundee, UK, <strong>2024</strong></li>
 </ul>
