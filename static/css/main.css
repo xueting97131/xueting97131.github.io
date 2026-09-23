@@ -248,7 +248,7 @@ section .main-body li {
 #avatar {
     position: relative;
     height: 0;
-    top: min(-65px, max(-100px, calc(-1 * 100vw / 12)));
+    top: min(-75px, max(-120px, calc(-1 * 100vw / 11)));
     max-width: 55em;
     margin: 0 1.5rem 0 0;
     float: right;
@@ -256,7 +256,8 @@ section .main-body li {
 }
 
 #avatar img {
-    height: max(130px, min(200px, calc(100vw / 6)));
+    height: max(150px, min(240px, calc(100vw / 5.5)));
+    width: auto;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
