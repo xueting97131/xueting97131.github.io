@@ -12,6 +12,37 @@
     z-index: 10000;
 }
 
+/* Give the brand and links their natural widths */
+#mainNav .navbar-brand {
+    flex-shrink: 0;
+    white-space: nowrap;
+}
+
+#mainNav .navbar-collapse {
+    min-width: 0;
+}
+
+#mainNav .navbar-nav {
+    margin-left: auto;
+}
+
+#mainNav .nav-link {
+    white-space: nowrap;
+}
+
+
+/* Desktop */
+@media (min-width: 992px) {
+
+    #mainNav .navbar-nav {
+        gap: 0.5rem;
+    }
+
+    #mainNav .nav-link {
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+    }
+}
 
 /* =========================================================
    Footer
