@@ -14,7 +14,7 @@
 <ul>
     <li>
         "Less is More": Decision-Making under Increasingly Complex Ambiguity. 
-        <strong><em>Journal of Risk and Uncertainty</em> (Revise and Resubmit).</strong>
+        <strong><em>Journal of Risk and Uncertainty</em> (Accepted).</strong>
         <a href="/pdfs/JMP-XuetingYang.pdf" target="_blank">[PDF]</a>
         <a href="/researchdata/CH3allresults.xls" target="_blank">[Data]</a>
     </li>
