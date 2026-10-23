@@ -13,20 +13,21 @@
 <h3>Job Market Paper</h3>
 <ul>
     <li>
+        Yang, X. (2026). 
         "Less is More": Decision-Making under Increasingly Complex Ambiguity. 
-        <strong><em>Journal of Risk and Uncertainty</em> (Accepted).</strong>
-        <a href="/pdfs/JMP-XuetingYang.pdf" target="_blank">[PDF]</a>
-        <a href="/researchdata/CH3allresults.xls" target="_blank">[Data]</a>
+        <strong><em>Journal of Risk and Uncertainty,</strong>
+        <a href="https://doi.org/10.1007/s11166-026-09514-9" target="_blank">[DOI]</a>
+        <a href="/pdfs/Yang2026JRU.pdf" target="_blank">[PDF]</a>
+        <a href="https://www.york.ac.uk/economics/exec/research/decision-making/" target="_blank">[Abstract and Data]</a>
     </li>
 </ul>
 
 <h3>Papers Under Review</h3>
 <ul>
     <li>
-        Probability Misperception in Blind Box Consumption: An Experimental Investigation of Risk and Ambiguity Preferences. 
+        Model-Implied Probabilities in Blind Box Consumption: An Experimental Investigation.
         <strong><em>Theory and Decision</em> (Major Revision).</strong>
         <a href="/pdfs/Blind Box -XuetingYang.pdf" target="_blank">[PDF]</a>
-        <a href="https://www.york.ac.uk/economics/exec/research/yang/" target="_blank">[Abstract and Data]</a>
     </li>
 </ul>
 
