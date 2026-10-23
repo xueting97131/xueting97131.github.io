@@ -15,7 +15,7 @@
     <li>
         Yang, X. (2026). 
         "Less is More": Decision-Making under Increasingly Complex Ambiguity. 
-        <strong><em>Journal of Risk and Uncertainty,</strong>
+        <strong><em>Journal of Risk and Uncertainty</em>,</strong>
         <a href="https://doi.org/10.1007/s11166-026-09514-9" target="_blank">[DOI]</a>
         <a href="/pdfs/Yang2026JRU.pdf" target="_blank">[PDF]</a>
         <a href="https://www.york.ac.uk/economics/exec/research/decision-making/" target="_blank">[Abstract and Data]</a>
